@@ -4,6 +4,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 36px;
-    margin: 33px auto;
+    transition: .3s ease;
+    border: 1ps solid red;
 }

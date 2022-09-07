@@ -1,14 +1,12 @@
 body{
-    background-color: aqua;
-    color: #111;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: .3s ease;
-    border: 1ps solid red;
+    background-color: #424848;
+    color: #faf7f7;
+   
+    
+    
 }
 h1{
-    font-size: 11px;
+   
     color: bisque;
     
 }

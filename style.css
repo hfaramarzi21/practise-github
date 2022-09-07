@@ -7,3 +7,8 @@ body{
     transition: .3s ease;
     border: 1ps solid red;
 }
+h1{
+    font-size: 11px;
+    color: bisque;
+    
+}
